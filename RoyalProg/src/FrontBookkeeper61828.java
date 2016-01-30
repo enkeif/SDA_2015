@@ -1,5 +1,3 @@
-package first;
-
 public class FrontBookkeeper61828 implements IFrontBookkeeper {
 	private Army myArmy = new Army();
 
